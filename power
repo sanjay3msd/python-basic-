@@ -1,0 +1,7 @@
+a=int(raw_input("enter the no "))
+b=int(raw_input("enter the power of "+str(a)+" ")) 
+c=a**b;
+print c
+
+
+

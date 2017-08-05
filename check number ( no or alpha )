@@ -1,0 +1,8 @@
+a=raw_input(" entr the value ")
+print a;
+for i in range(97,123):
+    if(ord(a)==i):
+        print" value is alphabet";
+for j in range(49,58):
+    if (ord(a)==j):
+        print "value is number ";

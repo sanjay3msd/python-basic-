@@ -1,0 +1,7 @@
+a=int(raw_input("enter the num "))
+if(a==0):
+    print "no is zero ";
+if(a<0):
+    print"no. is negative ";
+else:
+    print "no is positive";

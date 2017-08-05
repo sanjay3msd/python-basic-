@@ -1,0 +1,5 @@
+n=int(raw_input("enter the no till wt u need the sum "))
+z=((n*n)+n)/2;
+print z;
+    
+    

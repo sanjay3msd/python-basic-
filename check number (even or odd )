@@ -1,0 +1,6 @@
+a=int(raw_input(" enter the no ( even or odd)  "))
+if (a%2==0):
+    print " no u entered is even ";
+else:
+    print " no u entered is odd ";
+    

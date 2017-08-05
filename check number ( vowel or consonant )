@@ -1,0 +1,13 @@
+a=raw_input(" enter the letter ")
+if (a=='a'):
+    print " the letter u entered is vowel ";
+elif (a=='e'):
+    print " the letter u entered is vowel ";
+elif (a=='i'):
+    print " the letter u entered is vowel ";
+elif (a=='o'):
+    print " the letter u entered is vowel ";
+elif (a=='u'):
+    print " the letter u entered is vowel ";
+else:
+    print " the letter u entered is consonant ";

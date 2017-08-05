@@ -1,0 +1,17 @@
+a=int(raw_input("Enter the 1st no. "))
+b=int(raw_input("enter the 2nd no. "))
+c=int(raw_input("enter the 3rd no. "))
+if(a>b):
+      d=a;
+else:
+      d=b;
+if(d>c):
+      e=d;
+else:
+      e=c;
+if(e==a):
+      print"a is greatest ";
+elif(e==b):
+      print "b is greatest ";
+else:
+      print "c is greatest ";
